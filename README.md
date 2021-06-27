@@ -41,21 +41,6 @@ Letmeask é um app direcionado para criadores de conteúdos poderem criar e gere
 
 Este projeto foi desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**.
 
-Você pode acessar o projeto em produção aqui: (https://letmeask-6f470.web.app/)
+## 💻 Acesse o projeto aqui
 
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através do link abaixo:
-
-- [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
-
-Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
-
-## 📝 License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
+(https://letmeask-6f470.web.app/)
